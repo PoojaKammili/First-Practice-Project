@@ -11,7 +11,7 @@ namespace GitDemoApp
             Console.WriteLine("Enter your favorite programming language:");
             string lang = Console.ReadLine();
             Console.WriteLine($"You love {lang}! That's awesome 💻");
-            Console.WriteLine($"This is the new modificationin github");
+            Console.WriteLine($"This is the new modificationin github - little change made here");
         }
     }
 }
